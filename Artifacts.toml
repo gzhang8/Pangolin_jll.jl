@@ -1,0 +1,10 @@
+[[Pangolin]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c4f379e1a27a854f2eeea0e73c382a7cd1ab5bbc"
+libc = "glibc"
+os = "linux"
+
+    [[Pangolin.download]]
+    sha256 = "af4c6dc29abe54481ff23deb87a96087292c6cca3b75c2951add5fc1e2cedbc1"
+    url = "https://github.com/gzhang8/Pangolin_jll.jl/releases/download/Pangolin-v0.6.0+0/Pangolin.v0.6.0.x86_64-linux-gnu-cxx11.tar.gz"
